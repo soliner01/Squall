@@ -1,0 +1,1 @@
+Output files go here by default, which can be created by including the -o flag. If a path is provided in addition to the -o flag, the file will created in the specified location instead. Note that if a file already exists with the provided name in the target location, that file will be overwritten.
